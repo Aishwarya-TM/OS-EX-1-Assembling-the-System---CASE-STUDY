@@ -5,16 +5,18 @@ To Assemble the Computer System
 
 ## STEPS:
 1.Grounding oneself can be done by using an antistatic wrist-strap cable to prevent electrostatic discharge (ESD) which can be deadly to computer electronics. Alternatively, a large metal body like a radiator can also be touched to discharge oneself.
+
 ![os lb1](https://github.com/Aishwarya-TM/OS-EX-1-Assembling-the-System---CASE-STUDY/assets/127846109/3aa7ad7f-121e-4d1d-a4a0-431f0f95c142)
 
 2. To Open the case. Unscrew the side panel (or slide it toward the back of the case) to do so
+   
 ![Screenshot 2023-09-15 153645](https://github.com/Aishwarya-TM/OS-EX-1-Assembling-the-System---CASE-STUDY/assets/127846109/0f411952-1de5-4ee0-887a-2945b1858dda)
 
-3.	Install the power supply. Some cases come with the power supply already installed, while others will require to purchase the power supply separately and install it ourself. Have to make sure that the power supply is installed in the correct orientation,and that nothing is blocking the power supply's fan.
+4.	Install the power supply. Some cases come with the power supply already installed, while others will require to purchase the power supply separately and install it ourself. Have to make sure that the power supply is installed in the correct orientation,and that nothing is blocking the power supply's fan.
 a.	The power supply will usually go near the top or the bottom rear of the case. Can determine where the power supply is supposed to sit by looking for a missing section on the back of the case.
 ![image](https://github.com/Aishwarya-TM/OS-EX-1-Assembling-the-System---CASE-STUDY/assets/127846109/ef98ebe7-9720-46ff-8651-2f2952c8e1ec)
 
-4. Add components to the motherboard. This is usually easiest to do before installing the motherboard, as the case can limit ability towire components:
+5. Add components to the motherboard. This is usually easiest to do before installing the motherboard, as the case can limit ability towire components:
 ![image](https://github.com/Aishwarya-TM/OS-EX-1-Assembling-the-System---CASE-STUDY/assets/127846109/9aef0d2d-0a22-45fd-9a30-386ad943b2f5)
 
  
