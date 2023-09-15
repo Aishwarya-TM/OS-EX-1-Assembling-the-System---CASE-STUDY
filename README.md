@@ -1,9 +1,9 @@
-## OS-EX-1-Assembling-the-System---CASE-STUDY
+# OS-EX-1-Assembling-the-System---CASE-STUDY
 
-# AIM:
+## AIM:
 To Assemble the Computer System
 
-# STEPS:
+## STEPS:
 1.Grounding oneself can be done by using an antistatic wrist-strap cable to prevent electrostatic discharge (ESD) which can be deadly to computer electronics. Alternatively, a large metal body like a radiator can also be touched to discharge oneself.
 ![os lb1](https://github.com/Aishwarya-TM/OS-EX-1-Assembling-the-System---CASE-STUDY/assets/127846109/3aa7ad7f-121e-4d1d-a4a0-431f0f95c142)
 
@@ -66,7 +66,7 @@ a.	If bought a cooling system, install it before proceeding. Refer to the coolin
 b.	Many cases will have a panel which either slides back into place or screws onto the side of the case.
 ![image](https://github.com/Aishwarya-TM/OS-EX-1-Assembling-the-System---CASE-STUDY/assets/127846109/4794218d-4d32-47cd-bc5d-e33bcabbeb9f)
 
-# RUNNING THE COMPUTER:	
+## RUNNING THE COMPUTER:	
 1.	Attach the computer to an outlet. Using the power source's power cable, plug the computer into a wall outlet or power strip.
 a.	May first have to attach the electrical cable to the power source input on the back of the computer's case.
 ![image](https://github.com/Aishwarya-TM/OS-EX-1-Assembling-the-System---CASE-STUDY/assets/127846109/2cc80f3b-fffe-4aca-9d44-320ab280aa4a)
@@ -85,5 +85,5 @@ a.	If not having an installation USB drive, need to create one on another comput
 5.	Install the drivers. Once the operating system is installed, need to install the drivers. Almost all the hardware that was purchased should come with discs that contain the driver software needed for the hardware to work.
 •	Modern versions of Windows and Linux will install most drivers automatically when connected to the Internet.
 
-# Result : 
+## Result : 
 The Computer System has been successfully assembled.
